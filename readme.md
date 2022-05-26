@@ -6,7 +6,7 @@ Artemis was the Greek Goddess of hunting, as well as protector of young children
 
 
 ## What are the multi-facted problems we want to solve?
-1. Stopping mass murder in schools
+1. Stopping mass murder in schools https://github.com/leegraham/project-artemis/issues/1
 
 
 ## Why a multi-layered security approach?
