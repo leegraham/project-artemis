@@ -1,4 +1,4 @@
-# Project Artemis is an open source project where I hope we can pull together experts from various disciplines to develop a multi-layered security program to those in roles of power to better protect our generations greatest gifts... our children!
+# Project Artemis is an open source project where I hope we can pull together experts from various disciplines to develop a multi-layered security program to those in roles of power to better protect our generation's greatest gifts... our children!
 
 
 ## Why Artemis?
