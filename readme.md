@@ -5,9 +5,9 @@
 Artemis was the Greek Goddess of hunting, as well as protector of young children*. 
 
 
-## What are the multi-facted problems we want to solve?
+## What are the multi-facted problems we want to mitigate and/or solve?
 1. Stopping mass murder in schools https://github.com/leegraham/project-artemis/issues/1
-
+2. Suicide in children and teens
 
 ## Why a multi-layered security approach?
 The problem we aim to help solve and provide guidance on are complex amd multi-facted. As is cybersecurity, the best approach is to have many layers of protection. In parallel, the biggest issue in security is the human component. 
